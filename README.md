@@ -1,4 +1,6 @@
 # Demo-Repo
 This is my first git repository
 <br>
-Author-Muhammad-Talha-Yaqoob
+Author
+<br>
+Muhammad-Talha-Yaqoob
